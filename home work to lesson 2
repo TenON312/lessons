@@ -1,0 +1,8 @@
+name = input("What yur name?")#name
+surname = input("What your surname?")#surname
+Middle_name = input("What ypur Middle name?")#Middle name
+place_of_residence = input("what is your place of residence?")#city
+old = input("how old are you?")#old
+lessons = input("what do you do?")#leassons
+time = input("how much time do you spend at the computer?")#time to pc
+genre = input("what genre of games do you prefer?")#like genre
