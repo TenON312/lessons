@@ -1,0 +1,18 @@
+print("Hello, world!")
+
+
+print("First", "Second","Third")
+
+
+print("First")
+print("Secind")
+print("Third")
+
+
+print("First",end=' ')
+print("Secind")
+print("Third")
+
+
+name = input("What your name?")
+printn("Hello", name)
