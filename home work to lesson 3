@@ -1,0 +1,9 @@
+#1
+from math import*
+print(sqrt(854))
+
+
+#2
+a = 123456
+b = 65432
+print(a * b)
