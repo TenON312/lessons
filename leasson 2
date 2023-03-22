@@ -1,1 +1,20 @@
+name = input("What your name?") #What your name?
+hobby = input("what is your hobby?") #what is your hobby?
+mood = input("how is your mood?") #how is your mood?
+city = input("what city are you from?") #what city are you from?
+season = input("what time of year do you like?") #what time of year do you like?
+friend = input("what's your best friend's name?") #what's your best friend's name?
 
+
+name = input("What your name?") #What your name?
+print("Hello", name)
+hobby = input("what is your hobby?") #what is your hobby?
+print("I like it too", hobby)
+mood = input("how is your mood?") #how is your mood?
+print("I'm all good")
+city = input("what city are you from?") #what city are you from?
+print("I was in the city", city)
+season = input("what time of year do you like?") #what time of year do you like?
+print("my favorite time of the year is summer")
+friend = input("what's your best friend's name?") #what's your best friend's name?
+print("I have a friend too", friend)
