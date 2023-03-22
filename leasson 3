@@ -1,0 +1,23 @@
+#librarry math
+#librarry random
+from math import*
+from random import* 
+print(sqrt(1024))#=32
+pint(sqrt(32))#=10.14889156589222
+num = randint(-100, 100)
+print(sqrt(num))
+
+num = randint(-1000, 1000)
+num2 = randint(-500, 500)
+sum = (num + num2)
+print(sum)
+
+
+radius = 3
+print("S cyrcle to radius 3", "=", pi*(radius**2))
+pint("S cyrcle =", 2*pi*radius)
+
+
+radius = randint(1, 100)
+print("S cyrcle to radius 3", "=", pi*(radius**2))
+pint("S cyrcle =", 2*pi*radius)
