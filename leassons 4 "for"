@@ -1,0 +1,9 @@
+from turtle import *
+speed(100)
+n = 0
+
+while n < 24:
+    forward (180)
+    left(105)
+    n += 1
+exitonclick()
